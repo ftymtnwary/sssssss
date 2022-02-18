@@ -1,0 +1,176 @@
+
+
+#p{
+    
+    color: rgb(30, 230, 230);
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap;
+}
+#h{
+    height: 300px;
+    width: 2000px;
+    background-color: rgb(34, 248, 237);
+    color: rgb(181, 33, 240);
+}
+#j{
+
+    background-color:black;
+    color: rgb(101, 231, 225);
+   
+    width: 1346px;
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap;
+}
+#w{
+
+    
+    background-color: blue;
+    color: white;
+    border-radius: 40px;
+    height: 59px;
+    width:750px;
+    
+}
+#w:hover {
+    
+    background-color: rgb(48, 247, 247);
+    color: black;
+    transform: scale(0.9,0.9);
+    
+    
+}
+#c{
+    
+    height: 35px;
+    width:  100% ;
+    background-color: white;
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap;
+
+
+    
+}
+#a{
+    width: 50px;;
+    height: 30px;
+    color: rgb(46, 240, 230);
+    background-color: #000;
+    cursor: pointer;
+    size: 1110px;
+    outline: none; 
+    
+
+   
+}
+#a:hover{
+
+    background-color: #000;
+}
+#f{
+    margin: 30px auto;
+   height: 300;
+    width: 300px;
+    border-radius:40px;
+    cursor: pointer;
+    box-shadow:5px 5px 30px 7px reba(0,0,0,0.25),-5px -5px 30px 7px reba(0,0,0,0.25) ;
+    transition: 0.4s;
+}
+#d{
+    width:  inherit;
+    height: inherit;
+   
+}
+#d img{
+    width:  inherit;
+    height: inherit;
+    border-radius: 40px;
+    object-fit: cover;
+   
+}
+#s{
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -70px;
+    text-shadow: 3px 4px red;
+}
+   
+#d:hover{
+    transform: scale(0.9,0.9);
+    box-shadow:5px 5px 30px 15px reba(0,0,0,0.25),-5px -5px 30px 15px reba(0,0,0,0.22) ;
+
+   
+   
+}
+#t{
+    width:100%;
+    height: 50px;
+    border: none;    
+    color: black;
+    background-color: blue;
+    border-radius: 4px;
+    box-shadow: inset 0 0 0  red;
+    transition: ease-out 1.9s;
+    font-size: 20px;
+    outline: none;
+    
+    border-radius: 40px;
+   
+}
+#t:hover{
+    transform: scale(0.9,0.9);
+    box-shadow: inset 1900px 0 0 0 red;
+    cursor: pointer;
+    color: wheat;
+    
+}
+#kk{
+    height: 240px;
+    border-radius: 16px;
+    width:100% ;
+    color: #000;
+    background-color: aqua;
+    
+}
+#fkk{
+    size: 90px;
+    
+}
+
+#bbb{
+    height: 100%;
+    width: 100%; 
+    color: #000;
+    background-color: rgb(15, 233, 80);
+    
+
+}
+#kk textarea{
+    height:100% ;
+    width:100% ;
+    
+}
+#uuu{
+    margin-left: 0;
+    margin-top: 0;
+    width:30%;
+    height:30%;
+}  
+#ae{
+    
+    color: blue;
+} 
+ 
+#HHH{
+    height:1000px;
+    width:100%;
+    background-color: rgb(64, 218, 210);
+
+}  

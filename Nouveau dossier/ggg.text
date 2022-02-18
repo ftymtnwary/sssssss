@@ -1,0 +1,20 @@
+شريط  
+<nav id="c">
+  <a href="islam.html" id="a">Home</a>
+  <a href="islam.html"id="a" >Home</a>
+  <a href="islam.html"id="a" >Home</a>
+  <a href="islam.html"id="a" >Home</a>
+  <div class="animation start-home"></div>
+</nav>
+تسجيل الدخول
+<form>
+   <input type="text"  id="w"><button id="t" onclick="nam()">name</button> <br> 
+   <input type="email" id="w"><button id="t" onclick="email()">email</button><br> 
+   <input type="password" id="w"><button id="t" onclick="password()">password</button> <br> 
+
+  <button onclick="n()"  type="submit" style="color: black;background-color: blue;" id="t">
+    huhug
+  </button><br> 
+    </form>
+  <a href="test.html" id="ss">hggg</a>
+  <button id="ttt" >gygy</button>
